@@ -8,6 +8,7 @@ dist/
 data/db.json
 data/db.json.tmp
 *.tmp
+*.zip
 
 # Environment variables
 .env
